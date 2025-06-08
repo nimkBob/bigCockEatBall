@@ -22,3 +22,17 @@ class ListerThread extends Thread{
 
     }
 }
+
+class FrameThread extends Thread{
+
+    void Run(){
+
+    }
+}
+
+class AudioThread extends Thread{
+
+    void Run(){
+
+    }
+}

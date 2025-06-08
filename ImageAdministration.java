@@ -10,13 +10,14 @@ public class ImageAdministration {
 
     static void Init() throws IOException {
         String[] string=new String[]{
-                "cock_Left.png",
-                "cock_Right.png",
-                "PingPong,png",
-                "Badminton.png",
-                "Tenins.png",
-                "soccer.png",
-                "basketball.png",
+                "img/cock_Left.png",
+                "img/cock_Right.png",
+                "img/PingPong,png",
+                "img/Badminton.png",
+                "img/Tenins.png",
+                "img/soccer.png",
+                "img/basketball.png",
+                "img/lanqiuchan.jpg"
         };
         File file;
 
